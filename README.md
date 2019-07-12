@@ -34,3 +34,5 @@ print out the number of rows and columns of a dataframe so you know its size<br>
 
 preview the data in a dataframe<br>
 >print(df.head())<br>
+
+# Remeber: Without seeing your data at each step, you will never know what went wrong.

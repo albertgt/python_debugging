@@ -11,7 +11,7 @@ for example:<br>
 >grade = hw1 + hw2 + hw3<br>
   
 the above style doesn't help you know what happened if there is a bug with your calculation<br>
-but if you do print() to see it at each step then it is very visible which step<br>
+but if you do print() to see it at each step then it is very visible<br>
 
 >grade = hw1<br>
 >print(grade)<br>
